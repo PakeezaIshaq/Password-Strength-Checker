@@ -1,0 +1,4 @@
+*.exe
+*.out
+password_checker
+passwords.txt
