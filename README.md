@@ -15,9 +15,13 @@ A console-based C++ application that evaluates password strength, suggests impro
 
 ## Project Structure
 Password-Strength-Checker/
+
 ├── src/
+
 │ └── main.cpp
+
 ├── README.md
+
 └── .gitignore
 
 ## Author
